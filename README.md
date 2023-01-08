@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi there 👋
+
+![image](https://user-images.githubusercontent.com/46384658/211177900-9d0e8c1a-200f-4d65-a818-3c30c44a0711.png)
 
 <!--
 **MariRodrigues/MariRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<!--
