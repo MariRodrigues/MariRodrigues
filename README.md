@@ -2,8 +2,8 @@
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariRodrigues&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MariRodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariRodrigues&layout=compact&langs_count=6&theme=transparent"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MariRodrigues&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Contatos:
