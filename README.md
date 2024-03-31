@@ -1,9 +1,4 @@
-## Eai. Sou a Mari 👋
-Desenvolvedora Backend, tenho 26 anos e moro em São Paulo.
-Atualmente trabalho com C#, .NET.
-
-## Estatísticas:
-
+## Olá, sou a Mari 👋
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariRodrigues&layout=compact&langs_count=6&theme=gruvbox"/>
