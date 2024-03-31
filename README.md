@@ -1,10 +1,32 @@
 ## Eai. Sou a Mari 👋
+Desenvolvedora Backend, tenho 26 anos e moro em São Paulo.
+Atualmente trabalho com C#, .NET.
+
+## Estatísticas:
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariRodrigues&layout=compact&langs_count=6&theme=transparent"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MariRodrigues&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariRodrigues&layout=compact&langs_count=6&theme=gruvbox"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MariRodrigues&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 </div>
+
+### Principais Repositórios
+
+
+<a href="https://github.com/MariRodrigues/DocumentManager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariRodrigues&repo=DocumentManager&theme=gruvbox" />
+</a>
+<a href="https://github.com/MariRodrigues/UserManager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariRodrigues&repo=UserManager&theme=gruvbox" />
+</a><br><br>
+
+<a href="https://github.com/MariRodrigues/JogoDaMemoria">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariRodrigues&repo=JogoDaMemoria&theme=gruvbox" />
+</a>
+<a href="https://github.com/MariRodrigues/Ecommerce">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariRodrigues&repo=Ecommerce&theme=gruvbox" />
+</a>
+
 
 ## Contatos:
 
@@ -13,6 +35,7 @@
 <a href = "mailto:mari_rodrigue@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/mariana-rodrigues-de-souza-522321124/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 
 
 <!--
