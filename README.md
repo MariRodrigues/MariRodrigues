@@ -10,6 +10,22 @@ Atualmente trabalho com C#, .NET.
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MariRodrigues&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 </div>
 
+
+
+
+## Contatos:
+
+<div>
+<a href="https://www.instagram.com/marisouzaas2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:mari_rodrigue@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mariana-rodrigues-de-souza-522321124/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+
+
+<!--
+![image](https://user-images.githubusercontent.com/46384658/211177900-9d0e8c1a-200f-4d65-a818-3c30c44a0711.png)
+
 ### Principais Repositórios
 
 
@@ -26,21 +42,6 @@ Atualmente trabalho com C#, .NET.
 <a href="https://github.com/MariRodrigues/Ecommerce">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MariRodrigues&repo=Ecommerce&theme=gruvbox" />
 </a>
-
-
-## Contatos:
-
-<div>
-<a href="https://www.instagram.com/marisouzaas2/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:mari_rodrigue@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/mariana-rodrigues-de-souza-522321124/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
-
-
-<!--
-![image](https://user-images.githubusercontent.com/46384658/211177900-9d0e8c1a-200f-4d65-a818-3c30c44a0711.png)
-
 
 **MariRodrigues/MariRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
